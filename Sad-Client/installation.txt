@@ -1,0 +1,3 @@
+The Sad-Client is a forge mod/client that is for 1.8.9 it has a customizable GUI and other mods that you can customize!
+(When released)
+To Install put the .jar in your mods folder in .minecraft
